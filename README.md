@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭  Currently working on networks 
+- 💬  Interested in machine learning and deep learning applied to biology 
+- ☕  Surviving mostly on caffeine 
+
 <!--
 **dufourc1/dufourc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
