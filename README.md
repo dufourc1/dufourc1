@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭  Currently working on networks 
-- 💬  Interested in machine learning and deep learning applied to biology 
+- 💬  Interested in machine learning and deep learning applied to graph data
 - ☕  Surviving mostly on caffeine 
 
 <!--
