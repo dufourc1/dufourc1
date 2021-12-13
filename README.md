@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  Currently working on networks 
+- 🔭  Currently working on random networks 
 - 💬  Interested in machine learning and deep learning applied to graph data
 - ☕  Surviving mostly on caffeine 
 
