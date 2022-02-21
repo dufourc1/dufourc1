@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭  Currently working on random networks 
-- 💬  Interested in machine learning and deep learning applied to graph data
+- 👨🏼‍🔬 Currently doing a PhD in the [Statistical Data Science](https://www.epfl.ch/labs/sds/) group in EPFL
+- 💬  Interested in machine learning and deep learning applied to graph structured data
 - ☕  Surviving mostly on caffeine 
 
 <!--
