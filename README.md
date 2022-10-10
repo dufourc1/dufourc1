@@ -10,6 +10,8 @@
 ![](https://img.shields.io/badge/PyG-Python-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DeepChem-Python-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/NetworkX-Python-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Captum-Python-informational?style=flat&logoColor=white&color=2bbc8a)
+
 
 
 
