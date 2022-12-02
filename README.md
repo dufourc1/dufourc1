@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/NetworkX-Python-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Captum-Python-informational?style=flat&logoColor=white&color=2bbc8a)
 
-[![dufourc1's GitHub stats](https://github-readme-stats.vercel.app/api?username=dufourc1)](https://github.com/anuraghazra/github-readme-stats)
+[![dufourc1's GitHub stats](https://github-readme-stats.vercel.app/api?username=dufourc1&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
