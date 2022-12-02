@@ -1,17 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭  Currently working on combinatorial statistics
 - 👨🏼‍🔬 Currently doing a PhD in the [Statistical Data Science](https://www.epfl.ch/labs/sds/) group in EPFL
 - 💬  Interested in machine learning and deep learning applied to graph structured data
 - ☕  Surviving mostly on caffeine 
 
+## Stats
 
-[![dufourc1's GitHub stats](https://github-readme-stats.vercel.app/api?username=dufourc1&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=dufourc1&count_private=true&show_icons=true&theme=transparent" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dufourc1&layout=compact&theme=transparent&hide=jupyter%20notebook" /></div>
+</div>
 
 ## 🔧 Technologies & Tools
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dufourc1&layout=compact&theme=transparent&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://img.shields.io/badge/PyTorch-Python-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
