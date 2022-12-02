@@ -8,7 +8,7 @@
 ## Stats
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=dufourc1&count_private=true&show_icons=true&theme=transparent" />
+<img style="height: auto; width: 41%;" class="img" src="https://github-readme-stats.vercel.app/api?username=dufourc1&count_private=true&show_icons=true&theme=transparent" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dufourc1&layout=compact&theme=transparent&hide=jupyter%20notebook" /></div>
