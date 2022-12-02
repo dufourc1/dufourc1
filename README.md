@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/NetworkX-Python-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Captum-Python-informational?style=flat&logoColor=white&color=2bbc8a)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dufourc1&layout=compact&&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dufourc1&layout=compact&theme=transparent&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dufourc1/dufourc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
