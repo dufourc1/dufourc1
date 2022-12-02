@@ -16,10 +16,7 @@
 ![](https://img.shields.io/badge/NetworkX-Python-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Captum-Python-informational?style=flat&logoColor=white&color=2bbc8a)
 
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dufourc1&repo=github-readme-stats)](https://github.com/dufourc1/pytorch_geometric)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dufourc1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dufourc1/dufourc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
