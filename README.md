@@ -8,6 +8,9 @@
 
 ## 🔧 Technologies & Tools
 
+I mostly code in Python and I am starting to discover Julia. I also know my way with  R, Matlab, C++, and Java. 
+
+Here are a few specialised libraries I have used/am using:
 
 ![](https://img.shields.io/badge/PyTorch-Python-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/PyG-Python-informational?style=flat&logoColor=white&color=2bbc8a)
