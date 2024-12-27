@@ -8,7 +8,7 @@
 
 ## 🔧 Technologies & Tools
 
-I mostly code in Python and I am starting to discover Julia. I also know my way around  R, Matlab, C++, and Java. 
+I mostly code in Julia and Python. I also know my way around R and Matlab and have been exposed to C++ and Java. 
 
 Here are a few specialised libraries I have used/am using:
 
